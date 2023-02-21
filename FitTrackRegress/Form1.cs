@@ -16,5 +16,18 @@ namespace FitTrackRegress
         {
             InitializeComponent();
         }
+
+        private void calulate_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void clear_Click(object sender, EventArgs e)
+        {
+            stepsinput.Text = "";
+            distanceinput.Text = "";
+            runinput.Text = "";
+            outputdisplay.Text = "";
+        }
     }
 }
