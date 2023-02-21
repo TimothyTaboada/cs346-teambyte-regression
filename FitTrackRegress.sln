@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitTrackRegress", "FitTrackRegress\FitTrackRegress.csproj", "{26523587-6D7F-4C9D-B98B-F6C1F1F82872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26523587-6D7F-4C9D-B98B-F6C1F1F82872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26523587-6D7F-4C9D-B98B-F6C1F1F82872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26523587-6D7F-4C9D-B98B-F6C1F1F82872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26523587-6D7F-4C9D-B98B-F6C1F1F82872}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEAA9001-32A7-41C3-BCC9-AA970DD0B89A}
+	EndGlobalSection
+EndGlobal
