@@ -19,7 +19,8 @@ namespace FitTrackRegress
 
         private void calulate_Click(object sender, EventArgs e)
         {
-
+            double caliBurn = 43.34 + (-0.06 * Convert.ToDouble(runinput.Text)) + (-1.0 * Convert.ToDouble(runinput.Text)) + (0.28 * Convert.ToDouble(runinput.Text));
+            outputdisplay.Text = caliBurn.ToString();
         }
 
         private void clear_Click(object sender, EventArgs e)
